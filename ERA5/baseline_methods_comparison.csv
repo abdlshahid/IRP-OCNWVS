@@ -1,0 +1,5 @@
+method,l2_error_mean,l2_error_std,mse,mae,r2_score,correlation,energy_conservation_error,reconstruction_success_rate
+First Harmonic,0.67253,0.086168,0.013693,0.02156,0.547237,0.753225,0.0,1.0
+Second Harmonic,0.500382,0.119873,0.007443,0.013921,0.753887,0.881479,0.0,1.0
+MEM,0.08579,0.042917,0.000243,0.002111,0.99195,0.995969,1.2e-05,0.894353
+NDBC,0.312307,0.103187,0.002504,0.008025,0.917217,0.960134,0.0,1.0
