@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+xarray
+torch
+tensorflow
+matplotlib
+seaborn
+requests
+ipykernel
+keras
+cdsapi
+fsspec

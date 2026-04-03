@@ -2,3 +2,5 @@
 models\resnet_res_phy_en.pth
 models\resnet2.pth
 models\resnet2_res.pth
+*venv*
+*.venv
