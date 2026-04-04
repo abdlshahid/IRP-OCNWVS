@@ -1,4 +1,4 @@
-# 🌊 Wave Spectrum Reconstruction using Physics-Informed Machine Learning
+# 🌊 Wave Spectrum Reconstruction using Physics-Informed Surrogate Modelling
 
 ## Overview
 This project investigates the reconstruction of 2D directional ocean wave spectra \(S(f,\theta)\) using analytical methods, machine learning models, and physics-informed approaches.
